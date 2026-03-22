@@ -8,6 +8,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
+//this is just a random comment for testing
+
 @Controller
 public class HomeController {
     @GetMapping("/home")
